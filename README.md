@@ -4,11 +4,9 @@
 App Name : MEC Worship (Working Title)
 Customer : MEC
 Development Team :
-* Adam Atein (Full Stack Developer),
-* Jad Haddad (Junior Developer),
-* Nareg Avedikian (Developer Intern),
-* Carol Twaify (Developer Intern),
-* Simon Resho (Developer Intern)
+* Adam Atein
+* Jad Haddad
+* Abdallah Shmaitelly
 
 ----
 ### Application Description
